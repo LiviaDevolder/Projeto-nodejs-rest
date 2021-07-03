@@ -1,0 +1,27 @@
+{
+  "name": "Projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "Projeto feito no curso Rest com NodeJS: API com Express e MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiviaDevolder/Projeto-nodejs-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiviaDevolder/Projeto-nodejs-rest/issues"
+  },
+  "homepage": "https://github.com/LiviaDevolder/Projeto-nodejs-rest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
